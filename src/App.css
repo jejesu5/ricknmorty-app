@@ -1,11 +1,16 @@
 .App {
   text-align: center;
-}
+  background-image: url('./images/db83a38922403ecd7e0fc680b9da71d1.jpg');
+  background-attachment: scroll;
+  background-size: fixed;
+  min-height: 100vh;
 
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
